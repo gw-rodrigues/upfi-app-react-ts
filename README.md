@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/eba1ec06e6bf00f792d9f1f4ca4ce7df1dab9673/More....svg)
 
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
-![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/ignite-04-reactjs-upload-de-imagens?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/ignite-04-reactjs-upload-de-imagens?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/ignite-04-reactjs-upload-de-imagens?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/ignite-04-reactjs-upload-de-imagens?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/upfi-app-react-ts?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/upfi-app-react-ts?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/upfi-app-react-ts?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/upfi-app-react-ts?style=for-the-badge)
